@@ -6,7 +6,7 @@ Welcome to the Crowdfunding Platform project!
 
 This project aims to develop a crowdfunding platform governed by principles promoting trust, efficiency, and innovation in the crowdfunding landscape. Careful planning and consideration of challenges are necessary for successful implementation.
 
-For more information, visit our [main website](https://betterfundingindia.netlify.app/).
+For more information, visit our [Website](https://betterfundingindia.netlify.app/).
 
 ## Requirements
 
@@ -38,7 +38,7 @@ Please make sure to follow the code of conduct and guidelines outlined in the CO
 
 ## Preview
 
-[![Preview Image](link_to_image_here)](https://as2.ftcdn.net/v2/jpg/02/12/48/95/1000_F_212489538_kUZ6ivrQnFAGLz0t0lMjroll7WEG03vb.jpg)
+![Preview Image](https://as2.ftcdn.net/v2/jpg/02/12/48/95/1000_F_212489538_kUZ6ivrQnFAGLz0t0lMjroll7WEG03vb.jpg)
 
 ## License
 
